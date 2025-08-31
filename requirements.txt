@@ -1,0 +1,10 @@
+numpy
+pandas
+neurokit2
+scipy
+scikit-learn
+wfdb
+matplotlib
+seaborn
+joblib
+jupyter
